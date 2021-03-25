@@ -18,7 +18,7 @@ export default class App extends Component {
       this.state.page === "todoApp" ? (
         <TodoContainer />
       ) : (
-        <About name="Author" />
+        <About name="Faisal" />
       );
     return (
       <div className="App">
